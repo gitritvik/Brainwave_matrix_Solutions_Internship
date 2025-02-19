@@ -24,7 +24,7 @@ A simple and responsive landing page built using **HTML and CSS**. This project 
 3. Open `index.html` in your browser.
 
 ## Screenshots
-![Landing Page Preview](URL_TO_SCREENSHOT) 
+![Landing Page Preview](https://github.com/gitritvik/Brainwave_matrix_Solutions_Internship/blob/d493ab1674bb60dc78450378cf04ec5b5635bbdf/Landing%20page/Screenshot%20(66).png) 
 
 
 
