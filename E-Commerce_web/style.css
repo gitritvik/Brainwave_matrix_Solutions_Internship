@@ -8,9 +8,10 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    height: 50px;
+    height: 80px;
     width: 100vw;
     background-color: darkseagreen;
+    font-size: 20px;
 }
 
 #logo{
@@ -25,4 +26,9 @@ header{
     padding: 8px;
 
 
+}
+
+.act{
+    text-decoration: none;
+    padding: 5px;
 }
