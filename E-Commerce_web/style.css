@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    width: 100vw;
+    background-color: darkseagreen;
+}
+
+#logo{
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#navigation{
+
+    text-decoration: none;
+    padding: 8px;
+
+
+}
